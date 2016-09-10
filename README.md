@@ -1,2 +1,2 @@
 # AgarJs
-A Awesome All-In-One Agario Mod
+An Awesome All-In-One Agario Mod
